@@ -16,7 +16,7 @@ CDS-YOLO-LSTM
 │
 ├── ultralytics/                 # Stage I: CDS-YOLO
 │   ├── cfg/                     # Model configurations
-│   ├── nn/                      # Core network implementations(Includes modules for SHSA, EMCA, and CACS improvements)
+│   ├── nn/                      # Core network implementations (Includes modules for SHSA, EMCA, and CACS improvements)
 │   ├── utils/                   # Utility Functions and Helper Classes (UIoU improvements in /metrics.py)
 │   ├── ...
 │
